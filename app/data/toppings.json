@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Milk Foam",
+        "keyName": "milkFoam"
+    },
+    {
+        "id": 2,
+        "name": "White pearl",
+        "keyName": "whitePearl"
+    },
+    {
+        "id": 3,
+        "name": "Pearl",
+        "keyName": "pearl"
+    },
+    {
+        "id": 4,
+        "name": "Aloe",
+        "keyName": "aloe"
+    }
+]
